@@ -5,3 +5,19 @@ body {
 .race-car {
   width: 10%;
 }
+
+.right {
+  transform: rotate(0);
+}
+
+.left {
+  transform: rotate(180);
+}
+
+.top {
+  transform: rotate(270);
+}
+
+.bottom {
+  transform: rotate(90);
+}
